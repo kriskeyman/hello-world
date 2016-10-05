@@ -1,2 +1,2 @@
 # hello-world
-Hello world repository
+Hello I like making beach sounds with Eurorack modular synthesizers.
